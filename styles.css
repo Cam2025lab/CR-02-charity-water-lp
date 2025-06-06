@@ -36,7 +36,7 @@ header {
 
 .hero {
   height: 100vh;
-  background-image: https://dpmk.in/i/1Lnt81jTQL; /* Replace with your image */
+  background-image: url; https://dpmk.in/i/1Lnt81jTQL; /* Replace with your image */
   background-size: cover;
   background-position: center;
   position: relative;
