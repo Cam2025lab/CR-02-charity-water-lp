@@ -36,7 +36,7 @@ header {
 
 .hero {
   height: 100vh;
-  background-image: url(Screenshot 2025-05-18 7.14.46 PM.png); /* Replace with your image */
+  background-image: (Screenshot 2025-05-18 7.14.46 PM.png); /* Replace with your image */
   background-size: cover;
   background-position: center;
   position: relative;
